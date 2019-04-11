@@ -1,0 +1,23 @@
+/* mouse over link */
+   a:hover {
+       color: red;
+     }
+     a:link {
+       color: blue;
+     }
+     body {
+       margin: 50px auto;
+       max-width: 3000px;
+       font-family: "Helvetica", "Arial", sans-serif;
+       line-height: 1.5;
+       padding: 100px 300px;
+     }
+a:link {
+  text-decoration: underline;
+}
+
+a {
+  background-color: yellow;
+  text-dorecation: none;
+
+}
