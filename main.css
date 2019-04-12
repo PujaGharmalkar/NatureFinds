@@ -10,7 +10,7 @@
        max-width: 3000px;
        font-family: "Helvetica", "Arial", sans-serif;
        line-height: 1.5;
-       padding: 100px 300px;
+       padding: 175px 400px;
      }
 a:link {
   text-decoration: underline;
@@ -20,4 +20,25 @@ a {
   background-color: yellow;
   text-dorecation: none;
 
+}
+body {
+  background-image: url(http://sfwallpaper.com/images/background-images-of-nature-1.jpg);
+}
+h1 {
+  font-size: 20px;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 20px;
+}
+h6 {
+  font-size: 20px;
 }
